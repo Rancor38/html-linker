@@ -1,0 +1,29 @@
+{
+  "name": "html-linker",
+  "version": "1.0.0",
+  "description": "Bare-bones framework for linking html files for a single-page application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "html-linker": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rancor38/html-linker.git"
+  },
+  "keywords": [
+    "link",
+    "html"
+  ],
+  "author": "Zakariah O'Mara-Mezzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rancor38/html-linker/issues"
+  },
+  "homepage": "https://github.com/Rancor38/html-linker#readme",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
